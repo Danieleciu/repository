@@ -1,2 +1,3 @@
 # repository
-creating a branch means copying from a aprticular space
+creating a branch means copying from a a particular space
+New text
